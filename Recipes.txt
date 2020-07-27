@@ -3,3 +3,7 @@ Welcome
 Print
 Alert
 TextField
+
+
+
+Delete
